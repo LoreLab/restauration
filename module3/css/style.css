@@ -32,26 +32,26 @@ body {
   color: #000080;
   font-family: 'Trebuchet MS', sans-serif;
   font-weight: bolder;
-  font-size: 1.8rem;
+  font-size: 1.8em;
 }
 
 .navbar-brand a:hover {
   text-decoration: none;
-  color :#087940;
+
 }
 
-#nav-list {
+#navbar-list {
   background-color: #d15e37;
 }
 
-#nav-list a {
+#navbar-list a {
   /*text-align: center;*/
   font-weight: bolder;
   color: #282828;
   font-size: 1.2em;
 }
 
-#nav-list a:hover {
+#navbar-list a:hover {
   color: #beb1b1;
   background-color: #0c48ca;
 }
